@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-## 🔭 I’m currently working on Solr and Java [ Search Engine Platforms]
-## 🌱 I’m currently learning Elastic Search, Data Science
-## 👯 I’m looking to collaborate with people who are looking forward in this things
-## 🤔 I’m looking for help with data science pathway.
-## 💬 Ask me about Java
-## 📫 How to reach me: skype : karshil_2309
-## 😄 Pronouns: One Developer Army
-## ⚡ Fun fact: I hate early morning... 
+- 🔭 I’m currently working on Solr and Java [ Search Engine Platforms]
+- 🌱 I’m currently learning Elastic Search, Data Science
+- 👯 I’m looking to collaborate with people who are looking forward in this things
+- 🤔 I’m looking for help with data science pathway.
+- 💬 Ask me about Java
+- 📫 How to reach me: skype : karshil_2309
+- 😄 Pronouns: One Developer Army
+- ⚡ Fun fact: I hate early morning... 
 
 
 
