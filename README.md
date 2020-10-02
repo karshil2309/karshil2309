@@ -10,7 +10,9 @@
 - ⚡ Fun fact: I hate early morning... 
 
 
-
+<a href="https://dev.to/karshil2309">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Karshil sheth's DEV Profile" height="30" width="30">
+</a>
 <!--
 **karshil2309/karshil2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
