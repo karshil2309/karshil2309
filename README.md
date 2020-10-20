@@ -27,6 +27,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Github Usage ~ Status 
+![Aemie's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=karshil2309&show_icons=true&hide_border=true&theme=dark&private=true)   
+
+## Language Usage ~ Status
+![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=karshil2309&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
+
+## Links where you can find me! 
+:pushpin: &nbsp; [Dev Blog](https://dev.to/karshil2309)  
+:pushpin: &nbsp; [LinkedIn](https://www.linkedin.com/in/karshil-sheth/)  
+:pushpin: &nbsp; [Email](mailto:karshilsheth@gmail.com)  
+
 
 
 ![](https://komarev.com/ghpvc/?username=karshil2309&color=green)
