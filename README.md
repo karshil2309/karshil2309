@@ -16,10 +16,10 @@
 
 
 ## Github Usage ~ Status 
-![Aemie's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=karshil2309&show_icons=true&hide_border=true&theme=dark&private=true)   
+![Aemie's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=karshil2309&show_icons=true&hide_border=true&theme=tokyonight&private=true)   
 
 ## Language Usage ~ Status
-![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=karshil2309&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
+![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=karshil2309&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&private=true)
 
 ## Links where you can find me! 
 :pushpin: &nbsp; [Dev Blog](https://dev.to/karshil2309)  
