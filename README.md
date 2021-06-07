@@ -26,7 +26,7 @@
 :pushpin: &nbsp; [LinkedIn](https://www.linkedin.com/in/karshilsheth/)  
 :pushpin: &nbsp; [Email](mailto:karshilsheth@gmail.com)  
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karshil2309&" alt="karshilsheth" /></p>
 
 ![](https://komarev.com/ghpvc/?username=karshil2309&color=green)
 <!--
