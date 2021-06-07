@@ -15,6 +15,9 @@
 </a>
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karshil2309&theme=onedark" alt="karshilsheth" /></a> </p>
+
+
 ## Github Usage ~ Status 
 ![Aemie's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=karshil2309&show_icons=true&hide_border=true&theme=tokyonight&private=true)   
 
