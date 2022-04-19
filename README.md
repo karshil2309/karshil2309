@@ -1,5 +1,223 @@
 ### Hi there 👋
 
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
+
+<div align="center">
+	<br>
+		<img src="good-times.svg">
+	<br>
+</div>
+
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="https://www.footloose.io/">Footloose Labs
+
+
+----------
+
+
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Building Robots to ease opertations",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C401%20hrs%2041%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1437-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 128 Contributions in the Year 2022
+ > 
+> 📦 160.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 20 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
+🌆 Daytime    184 commits    █████████░░░░░░░░░░░░░░░░   35.59% 
+🌃 Evening    161 commits    ███████░░░░░░░░░░░░░░░░░░   31.14% 
+🌙 Night      115 commits    █████░░░░░░░░░░░░░░░░░░░░   22.24%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+Tuesday      46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.9% 
+Wednesday    86 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.63% 
+Thursday     76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
+Friday       62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
+Saturday     67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+Sunday       120 commits    █████░░░░░░░░░░░░░░░░░░░░   23.21%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               40 hrs 25 mins      ██████████████████████░░░   90.37% 
+JSON                     1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67% 
+HTML                     1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
+YAML                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
+GitIgnore file           28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07%
+
+🔥 Editors: 
+WebStorm                 44 hrs 42 mins      █████████████████████████   99.95% 
+DataGrip                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+
+💻 Operating System: 
+Mac                      44 hrs 44 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               14 repos            ████████░░░░░░░░░░░░░░░░░   32.56% 
+Vue                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
+Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
+Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
+
+```
+
+
+
+ Last Updated on 19/04/2022 00:49:07 UTC
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIwMzQzNzkxLC0xNTUwNDQ1MDA5LC0xNj
+IxNzI1MDldfQ==
+-->
+
+
+### 👋 Hi there
+
+I'm a software engineer in <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/world-flag_047-CHN--China.svg" width="13"/> China. Currently, I'm working for <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/Microsoft.svg" width="13"/> Microsoft, focusing on M365 infrastructures. I enjoy coding for fun😋 and making toy projects🎈.
+
+<h3>🔍 Where to find me</h3>
+<p><a href="https://blog.aoaoao.me" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a> <a href="https://github.com/HFO4" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/AaronLiu00" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+### 🎮 Let's play Pokémon together~
+<img src="https://toy.aoaoao.me/image" width="300"/> 
+
+<img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> <a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a>
+<br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30"/></a>
+<br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a>
+<br><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" height="30"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" height="30" /></a>
+
+-----
+
+Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
+
+<details><summary>About this game section</summary>
+  
+  The section is developed based on my previopus GameBoy emulator project [Gameboy.Live](https://github.com/HFO4/gameboy.live), you can use this project to deploy your own "cloud gaming server".
+</details>
+
+<details><summary>Statistics of this game so far</summary>
+  <img src="https://playground.aoaoao.me/Api/GBStatistic" />
+</details>
+
+-----
+
+
+
 - 🔭 I’m currently working on Solr and Java [ Search Engine Platforms]
 - 🌱 I’m currently learning Elastic Search, Data Science
 - 👯 I’m looking to collaborate with people who are looking forward in this things
