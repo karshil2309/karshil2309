@@ -3,8 +3,7 @@
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Software Enginner at <a href="https://www.surekhatech.com/">Surekha Technologies</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
-</em></p>
+
 
 [![Twitter: Karshil Sheth](https://img.shields.io/twitter/follow/KarshilSheth?style=social)](https://twitter.com/KarshilSheth)
 [![Linkedin: KarshilSheth](https://img.shields.io/badge/-karshilsheth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karshilsheth/)](https://www.linkedin.com/in/karshilsheth/)
