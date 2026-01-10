@@ -84,10 +84,7 @@ const karshil = {
 
 [![Karshil's GitHub Stats](https://github-readme-stats.aemiej.vercel.app/api?username=karshil2309&show_icons=true&hide_border=true&theme=tokyonight&private=true)](https://github.com/karshil2309)
 [![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=karshil2309&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&private=true)](https://github.com/karshil2309)
-
-<br>
-
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=karshil_2309&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karshil2309&theme=dark)](https://git.io/streak-stats)
 </div>
 
 
